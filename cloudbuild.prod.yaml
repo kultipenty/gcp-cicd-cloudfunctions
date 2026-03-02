@@ -30,3 +30,7 @@ substitutions:
     _FUNCTION_REGION  : northamerica-northeast1
     _FUNCTION_RUNTIME : nodejs14
     _ENTRY_POINT      : helloWorld
+
+# !!! ЭТО РЕШЕНИЕ ПРОБЛЕМЫ !!!
+options:
+  logging: CLOUD_LOGGING_ONLY
