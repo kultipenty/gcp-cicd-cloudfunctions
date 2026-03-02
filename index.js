@@ -4,7 +4,8 @@
 //-----------------------------------------------------------------------------
 
 exports.helloWorld = (req, res) => {
-  const message="<font color='blue'>СloudFunction of Denis Astahov!</font><br><b>App Version 1.123321</b>";
+  const message="<font color='blue'>СloudFunction of Denis Astahov!</font><br><b>App Version 1.000011111</b>";
   res.status(200).send(message);
 };
+
 
